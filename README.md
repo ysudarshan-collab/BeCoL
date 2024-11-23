@@ -1,3 +1,3 @@
 # BeCoL for Knowledge-Based Question Answering Systems
 
-We will release all codes soon.
+This work is under peer review. We will release all codes soon.
